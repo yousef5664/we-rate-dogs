@@ -1,4 +1,4 @@
-# we-rate-dogs
+# WeRateDogs
 This project aimed to investigate WeRateDogs Twitter account.
 
 ## Packages
